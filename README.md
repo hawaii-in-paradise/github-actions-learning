@@ -1,7 +1,11 @@
 # github-actions-learning
 
-![Hello World Python (main)](https://github.com/hawaii-in-paradise/github-actions-learning/actions/workflows/hello-world.yml/badge.svg?branch=main)
-![Hello World Python (dev)](https://github.com/hawaii-in-paradise/github-actions-learning/actions/workflows/hello-world.yml/badge.svg?branch=dev)
+**Branch Status:**
+
+| Branch | Status |
+|--------|--------|
+| ![Main](https://img.shields.io/badge/main-blue) | ![Hello World Python (main)](https://github.com/hawaii-in-paradise/github-actions-learning/actions/workflows/hello-world.yml/badge.svg?branch=main) |
+| ![Dev](https://img.shields.io/badge/dev-purple) | ![Hello World Python (dev)](https://github.com/hawaii-in-paradise/github-actions-learning/actions/workflows/hello-world.yml/badge.svg?branch=dev) |
 
 The intended purpose of this is to learn github actions.  By the end of this tutorial I would have learned how to use a github action and have a badge on my README showing a passing pipeline.
 
