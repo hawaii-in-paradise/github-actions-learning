@@ -12,9 +12,11 @@
 - Added both main and dev branch badges to `README.md` to track both workflow statuses. (commit: dual-branch-badges)
 - Replaced badges in `README.md` with a labeled table for clear distinction between main and dev branch statuses. (commit: badge-table-labels)
 - Updated workflow trigger in `.github/workflows/hello-world.yml` to run on both main and dev branches. (commit: workflow-multi-branch)
+- Confirmed both main and dev branch badges now show passing status in `README.md`. (commit: both-badges-passing)
+- Created `stage` and `load` branches, added badges for both to the README, and updated all relevant branches. (commit: add-stage-load-branches-badges)
 
 ### Instructions to get a working badge
-- Push all files, including `.github/workflows/hello-world.yml`, to your GitHub repository (preferably to the `main` or `dev` branch).
+- Push all files, including `.github/workflows/hello-world.yml`, to your GitHub repository (preferably to the `main`, `dev`, `stage`, or `load` branch).
 - The badge in `README.md` uses a URL that points to the workflow status on GitHub. It will only display correctly after the workflow has run at least once.
 - To trigger the workflow, make any commit (such as this changelog) and push it to GitHub. This will start the workflow and update the badge.
 - If your repository is private, ensure you are logged in to GitHub to view the badge.
