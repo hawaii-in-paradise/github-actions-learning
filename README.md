@@ -1,6 +1,6 @@
 # github-actions-learning
 
-![Hello World Python](https://github.com/hawaii-in-paradise/github-actions-learning/actions/workflows/hello-world.yml/badge.svg?branch=main)
+![Hello World Python](https://github.com/hawaii-in-paradise/github-actions-learning/actions/workflows/hello-world.yml/badge.svg?branch=dev)
 
 The intended purpose of this is to learn github actions.  By the end of this tutorial I would have learned how to use a github action and have a badge on my README showing a passing pipeline.
 
