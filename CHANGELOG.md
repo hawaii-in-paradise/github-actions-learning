@@ -3,8 +3,9 @@
 ## [Unreleased]
 
 ### Added
-- Created `.github/workflows/hello-world.yml` to run a Python script that prints "Hello World" using GitHub Actions.
-- Updated `README.md` to include a status badge for the workflow.
+- Created `.github/workflows/hello-world.yml` to run a Python script that prints "Hello World" using GitHub Actions. (initial commit)
+- Updated `README.md` to include a status badge for the workflow. (initial commit)
+- Updated the badge URL in `README.md` to explicitly reference the `main` branch for accurate status display. (commit: updated-badge-url)
 
 ### Instructions to get a working badge
 - Push all files, including `.github/workflows/hello-world.yml`, to your GitHub repository (preferably to the `main` branch).
