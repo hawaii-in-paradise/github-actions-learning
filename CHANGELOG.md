@@ -11,6 +11,7 @@
 - Added `USAGE.md` with instructions for using this workflow as a reusable GitHub Action and tagging as `gha-v.0.0.1`. (commit: add-usage-doc)
 - Added both main and dev branch badges to `README.md` to track both workflow statuses. (commit: dual-branch-badges)
 - Replaced badges in `README.md` with a labeled table for clear distinction between main and dev branch statuses. (commit: badge-table-labels)
+- Updated workflow trigger in `.github/workflows/hello-world.yml` to run on both main and dev branches. (commit: workflow-multi-branch)
 
 ### Instructions to get a working badge
 - Push all files, including `.github/workflows/hello-world.yml`, to your GitHub repository (preferably to the `main` or `dev` branch).
